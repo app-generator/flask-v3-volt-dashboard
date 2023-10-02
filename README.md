@@ -2,7 +2,7 @@
 
 Open-source **Flask/Jinja Template** provided by `AppSeed` on top of **Volt Dashboard**, a modern `Bootstrap 5` dashboard design. 
 
-The project is a super simple Flask project WITHOUT database, ORM, or any other hard dependency - Design from **[Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)**.
+The project is a super simple Flask project WITHOUT database, ORM, or any other hard dependency - Design from **Themesberg**.
 
 > Features
 
