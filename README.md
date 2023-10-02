@@ -8,7 +8,7 @@ The project is a super simple Flask project WITHOUT database, ORM, or any other 
 
 - ✅ `Up-to-date dependencies` using a **Flask v3.0.0** compatible stack
 - ✅ Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- ✅ **UI Kit**: [Soft Dashboard BS5](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) by Creative-Tim
+- ✅ **UI Kit**: Volt Dashboard by Themesberg
 - ✅ `Docker`
 - ✅ `CI/CD` via Render
 
